@@ -1,2 +1,1 @@
-# loopd
-Loops Backend Server
+# moved to https://github.com/joinloops/loops-server
